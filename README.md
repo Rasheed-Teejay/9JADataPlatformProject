@@ -57,3 +57,34 @@ I developed a Microsoft Forms survey aimed at Data Professionals to gather insig
 Microsoft Form link: ![] ([https://forms.office.com/r/3YTYXqs5Xv])
 
 This survey aims to better understand our audience and tailor our offerings to their needs effectively.
+
+# Data Transformation/Cleaning:
+---
+Data was efficiently cleaned and transformed with the Power Query Editor of Power BI. [a screenshot of the applied steps] Some of the applied steps included
+![](DataCleaningOnFabric.JPG)
+
+# Data Modelling 
+---
+In this project, data modeling requirements are simplified due to the presence of a single table. Therefore, emphasis shifts towards thorough analysis and visualization using Power BI tools. Our objective is to optimize project aspects by leveraging Power BI's capabilities to extract meaningful insights from the data. These insights will inform decision-making processes, enhancing overall planning and execution of the project, which is vital for the 9JA Data Platform community
+
+![](DataModellingFabric.JPG)
+
+# Data Analysis and Visuals
+![](9JA%20Data%20Platform%20DashBoard.JPG)
+
+# Key Findings from Data Analysis:
+---
+- High Attendance Assurance: Out of 477 registered attendees, a significant portion indicates assurance of attending the event.
+![](ParticipatingForEvent.JPG)
+- Gender Distribution: Among attendees, 123 females and 284 males have registered, highlighting a gender distribution imbalance.
+  - Broad Industry Interest: Data reveals widespread interest in learning Fabric across various industries.
+  ![](ParticipatingForEvent.JPG)
+- Learning Format Preferences: Attendees exhibit preferences for learning formats, with 338 opting for recorded sessions, followed by 317 for live sessions, and 311 for interactive workshops.
+  ![](Learning%20Format.JPG)
+- Topic of Interest: Power BI garners the highest interest with 350 attendees, followed by Data Science with 315, and Data Factory with 233.
+  ![](Topic%20of%20Interest.JPG)
+- BootCamp Participation: While 423 attendees express interest in the 3-day BootCamp, 308 are willing to self-sponsor, and 169 seek scholarships.
+![](3-DaysBootCamp.JPG)
+These insights will guide planning efforts, informing decisions on accommodation, transportation, volunteer management, and provision of scholarships for eligible candidates.
+
+
